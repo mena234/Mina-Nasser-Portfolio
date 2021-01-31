@@ -1,0 +1,179 @@
+.symbole-contain::after,
+.symbole-contain::before {
+    background-color: #0dcdbd;
+}
+.infinite-symbole:before,
+.infinite-symbole:after {
+    border: 2px solid #0dcdbd;
+}
+.testimonials-big-contain .buttons-contain span#button-one span.one,
+.testimonials-big-contain .buttons-contain span#button-two span.three {
+    background-color: #0dcdbd;
+}
+.carousel-contain #buttons button:hover i {
+    color: #0dcdbd;
+}
+.second-part-skill
+    .flex-box-of-skills
+    .left-part-of-skills
+    .progress-bar-contain
+    .progress-bar
+    .progress-colored {
+    background-color: #0dcdbd;
+}
+.second-part-skill
+    .flex-box-of-skills
+    .left-part-of-skills
+    .progress-bar-contain
+    .progress-bar
+    .progress-circle {
+    border: 3px solid #0dcdbd;
+}
+.work-progress-contain .work-progress-small-contain .progress-div {
+    color: #0dcdbd;
+}
+.work-progress-contain .work-progress-small-contain .work-progress-center span {
+    background-color: #0dcdbd;
+}
+@media (max-width: 991px) {
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-left
+        .one,
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-left
+        .two {
+        border-right: 2px solid #0dcdbd;
+    }
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-left
+        .one,
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-right
+        .three {
+        border-bottom: 2px solid #0dcdbd;
+    }
+}
+@media (max-width: 575px) {
+    .work-progress-contain .work-progress-small-contain .work-progress-left,
+    .work-progress-contain .work-progress-small-contain .work-progress-right {
+        width: 100%;
+    }
+
+    .work-progress-contain .work-progress-small-contain {
+        flex-wrap: wrap;
+    }
+
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-left
+        .one {
+        border-bottom: 0;
+    }
+
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-left
+        .two,
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-right
+        .four {
+        border-right: 0;
+        border-left: 2px solid #0dcdbd;
+        text-align: left;
+        padding-left: 20px;
+        padding-right: 0;
+    }
+
+    .work-progress-contain
+        .work-progress-small-contain
+        .work-progress-right
+        .three {
+        border-bottom: 0;
+        border-left: 0;
+        border-right: 2px solid #0dcdbd;
+        text-align: right;
+        padding-right: 20px;
+        padding-left: 0;
+    }
+}
+.blog .blog-big-contain .blog-small-contain .blog-text h3:hover {
+    color: #0dcdbd;
+}
+.blog
+    .blog-big-contain
+    .blog-small-contain
+    .blog-text
+    .blog-span-contain
+    span:first-of-type:hover,
+.blog
+    .blog-big-contain
+    .blog-small-contain
+    .blog-text
+    .blog-span-contain
+    span:nth-of-type(3):hover {
+    color: #0dcdbd;
+}
+.blog .blog-big-contain .blog-small-contain .blog-read-more span:hover {
+    color: #0dcdbd;
+}
+.contact .contact-big-contain .contact-flex input:first-of-type:hover,
+.contact .contact-big-contain .contact-flex input:nth-of-type(2):hover {
+    border-bottom: 2px solid #0dcdbd;
+}
+.contact .contact-big-contain .contact-flex textarea:hover {
+    border-bottom: 2px solid #0dcdbd;
+}
+.contact .contact-big-contain .contact-flex .contain-send-message:hover {
+    color: #0dcdbd;
+}
+.adress-big-contain .my-adress-flex .adress-small-contain div:nth-of-type(3) {
+    color: #0dcdbd;
+}
+.templets .templet-contain .templet-top-div {
+    color: #0dcdbd;
+}
+.bg-img .img-icons-cotain ul .li-icon i:hover {
+    color: #0dcdbd !important;
+}
+.bg-img .aside .bottom-aside .icon i:hover {
+    color: #0dcdbd !important;
+}
+.main-color {
+    color: #0dcdbd !important;
+}
+.my-info .my-info-text .my-info-adress {
+    color: #0dcdbd !important;
+}
+.box-info-flex-two .box-icon-contain .icon-contain {
+    border: 2px solid #0dcdbd !important;
+}
+.box-info-flex-two .box-icon-contain .icon-text div {
+    color: #0dcdbd !important;
+}
+.box-info-flex-two .cv-contain div:hover a {
+    color: #0dcdbd !important;
+}
+.small-symbole-contain {
+    color: #0dcdbd !important;
+}
+.small-symbole-contain::after,
+.small-symbole-contain::before {
+    background-color: #0dcdbd !important;
+}
+.box-interest-flex .interest-box-contain .interest-icon-contain {
+    color: #0dcdbd !important;
+}
+.service-big-contain .service-part-contain:hover .service-icon-contain {
+    border: 2px solid #0dcdbd !important;
+}
+.testimony-small-part-contain .testimonial-flex-top .testimonial-top-right {
+    color: #0dcdbd !important;
+}
+.right-pages-contain > div::-webkit-scrollbar-thumb {
+    background-color: #0dcdbd;
+}
